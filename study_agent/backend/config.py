@@ -1,0 +1,6 @@
+MAIL_SERVER = 'smtp.qq.com'
+MAIL_PORT = 465
+MAIL_USE_SSL = True
+MAIL_USERNAME = '2175109136@qq.com'
+MAIL_PASSWORD = 'opvrrvhgcvcfeahe'
+MAIL_DEFAULT_SENDER = '2175109136@qq.com'
